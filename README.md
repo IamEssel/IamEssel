@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nana Kwesi Essel.
-- 👀 I’m interested in Data Science and Web Development.
+- 👀 I’m interested in Data Science and Cybersecurity.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on creating an improved AI to solve even the most complicated problems. 
 - 📫 How to reach me nessel723@gmail.com
